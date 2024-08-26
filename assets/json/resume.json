@@ -16,49 +16,35 @@
     {
       "name": "Tesla Inc",
       "position": "Software Engineer",
-      "startDate": "12-01-2021",
+      "startDate": "12-01-2024",
       "endDate": "",
       "summary": "Software Engineer for the Tesla Core Audio Team. Developed from the ground up speech enhacement and SELD systems. Contributed to the development of the vehicle chimes systems for S3XY vehicles, Semi and CyberTruck.",
       "highlights": ["Audio-ML & Core Audio"]
-    },
+    }
+  ],
+  "volunteer": [
     {
-      "name": "Tesla Inc",
-      "position": "Software Engineer Intern",
-      "startDate": "04-12-2021",
-      "endDate": "12-01-2021",
-      "summary": "Software Engineer Intern for the Tesla Core Audio Team. Developed signal procesing tests to ensure bit-perfect audio quality in vehicles. Built a in-vehicle DSP Audio App used by hundres of Tesla engineers and technicias around the globe.",
-      "highlights": ["Core Audio & Signal Processing"]
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Southern California",
-      "location": "Los Angeles",
-      "url": "https://viterbischool.usc.edu/",
-      "area": "M.S in Computer Science (AI focus)",
-      "studyType": "M.S",
-      "startDate": "01-01-2023",
-      "endDate": "",
-      "courses": ["AI/ML"]
-    },
-    {
-      "institution": "University of California Davis",
-      "location": "Davis",
-      "url": "",
-      "area": "B.S in Computer Science",
-      "studyType": "B.S",
-      "startDate": "06-01-2016",
-      "endDate": "03-01-2021",
-    },
-    {
-      "institution": "University of California Davis",
-      "location": "Davis",
-      "url": "",
-      "area": "B.S in Applied Mathematics",
-      "studyType": "B.S",
-      "startDate": "06-01-2016",
-      "endDate": "03-01-2021",
-      "courses": ["Non-linear Dynamical Systems, Abstract Algebra"]
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -77,6 +63,41 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
