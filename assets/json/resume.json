@@ -38,24 +38,35 @@
     {
       "institution": "University of Southern California",
       "location": "Los Angeles, CA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://viterbischool.usc.edu/",
       "area": "Computer Science (focus on AI)",
       "studyType": "M.S",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "01-01-2023",
+      "endDate": "",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Artificial Intelligence"]
     },
     {
       "institution": "University of California Davis",
       "location": "Davis, CA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://cs.ucdavis.edu/",
       "area": "Computer Science",
       "studyType": "B.S",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "06-01-2016",
+      "endDate": "03-01-2021",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Computer Science & Software Engineering"]
+    },
+    {
+      "institution": "University of California Davis",
+      "location": "Davis, CA",
+      "url": "https://www.ucdavis.edu/majors/applied-mathematics",
+      "area": "Applied Mathematics",
+      "studyType": "B.S",
+      "startDate": "06-01-2016",
+      "endDate": "03-01-2021",
+      "score": "10",
+      "courses": ["Numerical Methods, Non-linear dynamics & Abstract Algebra"]
     }
   ],
   "awards": [
