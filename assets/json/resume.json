@@ -41,7 +41,7 @@
       "url": "https://viterbischool.usc.edu/",
       "area": "Computer Science (focus on AI)",
       "studyType": "M.S",
-      "startDate": "01-01-2023",
+      "startDate": "2023-01-01",
       "endDate": "",
       "score": "10",
       "courses": ["Artificial Intelligence"]
@@ -52,8 +52,8 @@
       "url": "https://cs.ucdavis.edu/",
       "area": "Computer Science",
       "studyType": "B.S",
-      "startDate": "06-01-2016",
-      "endDate": "03-01-2021",
+      "startDate": "2016-06-01",
+      "endDate": "2021-03-01",
       "score": "10",
       "courses": ["Computer Science & Software Engineering"]
     },
@@ -63,8 +63,8 @@
       "url": "https://www.ucdavis.edu/majors/applied-mathematics",
       "area": "Applied Mathematics",
       "studyType": "B.S",
-      "startDate": "06-01-2016",
-      "endDate": "03-01-2021",
+      "startDate": "2016-06-01",
+      "endDate": "2021-03-01",
       "score": "10",
       "courses": ["Numerical Methods, Non-linear dynamics & Abstract Algebra"]
     }
