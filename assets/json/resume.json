@@ -71,17 +71,17 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Mathematics Travel Award",
+      "date": "2019",
+      "awarder": "UC Davis Mathematics Deparment",
+      "url": "",
+      "summary": "Grant to travel and present my research to the Society for Music Perception and Cognition (SMPC) conference at NYU."
     }
   ],
   "certificates": [
     {
       "name": "Intensive Studies in Data Science",
-      "date": "2018-08-31",
+      "date": "2018",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
