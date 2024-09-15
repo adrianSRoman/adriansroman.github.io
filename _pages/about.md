@@ -18,8 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Audio Software Engineer at Tesla and a M.S. student in Computer Science at the University of Southern California. 
+I am an Audio Software Engineer at [Tesla](https://www.tesla.com/about) and a M.S. student in Computer Science at the University of Southern California. 
 
 My research focuses on developing explainable AI algorithms for multi-modal machine perception, with a particular emphasis on building auditory models to detect and localize sound events. I believe machine listening can significantly enhance the capabilities of intelligent systems, driving innovation in areas like robotics, autonoumous vehicles, and beyond. 
 
-As a software engineer my main goal is to develop technologies that can ultimately improve prople's lives. Prior to Tesla, I interned at Oscillo Biosciences, where I developed non-linear dynamical systems to simulate human synchronization. I delivered a mobile digital therapy capable of gently re-training rhytmic synchronization on patients who suffer from language disfluencies and aphasia. At Tesla I develop sound user interfaces, often refered as vehicle chimes systems. My contributions also expand other areas of the software stack, such as UI development, audio pipelines, and firmware. Beyond core audio software engineering, I build machine learning systems for speech enhacement and sound event localization and detection. 
+As a researcher and technologist, my main goal is to develop innovation that can ultimately improve people's lives, especially those with disabilities. At [Oscillo Biosciences](https://oscillobiosciences.com/about/), I developed non-linear dynamical systems to simulate human synchronization. I delivered a mobile digital therapy capable of gently re-training rhytmic synchronization on patients who suffer from language disfluencies and aphasia. 
+
+At Tesla I develop sound user interfaces. By using sounds, I help humans navigate their vehicles. My contributions also expand other areas of the software stack, such as UI development, audio pipelines, and firmware. Beyond core audio software engineering, I build machine learning systems for speech enhacement and sound event localization and detection. 
