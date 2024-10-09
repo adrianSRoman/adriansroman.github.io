@@ -16,7 +16,7 @@
     {
       "name": "Tesla Inc",
       "position": "Software Engineer",
-      "startDate": "12-01-2024",
+      "startDate": "2024-12-01",
       "endDate": "",
       "summary": "Software Engineer for the Tesla Core Audio Team. Developed from the ground up speech enhacement and SELD systems. Contributed to the development of the vehicle chimes systems for S3XY vehicles, Semi and CyberTruck.",
       "highlights": ["Audio-ML & Core Audio"]
@@ -24,16 +24,16 @@
     {
       "name": "Tesla Inc",
       "position": "Software Engineer Intern",
-      "startDate": "04-12-2024",
-      "endDate": "12-01-2024",
+      "startDate": "2024-12-04",
+      "endDate": "2024-01-12",
       "summary": "Software Engineer Intern for the Tesla Core Audio Team. Developed audio signal processing test to ensure bit perfect audio quality in vehicles. Built audio UI features and firmware.",
       "highlights": ["Software Engineering & Core Audio"]
     },
     {
       "name": "Oscillo Bioscience",
       "position": "Software Engineer Intern",
-      "startDate": "06-15-2019",
-      "endDate": "03-01-2021",
+      "startDate": "2019-15-06",
+      "endDate": "2021-01-03",
       "summary": "Software Engineer Intern. Developed audio signal processing software. Designed, built and deployed dynamical system algorithms on iOS software. Full-stack developer of an iOS application for theraputic purposes.",
       "highlights": ["Software Engineering & Core Audio"]
     }
