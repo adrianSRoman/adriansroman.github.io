@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Audio Software Engineer at [Tesla](https://www.tesla.com/about) and a M.S. student in Computer Science at the University of Southern California. 
+I am an Audio Software Engineer at [Tesla](https://www.tesla.com/about) and a M.S. student in Computer Science at the [University of Southern California](https://www.cs.usc.edu/). 
 
 My research focuses on developing explainable AI algorithms for multi-modal machine perception, with a particular emphasis on building auditory models to detect and localize sound events. I believe machine listening can significantly enhance the capabilities of intelligent systems, driving innovation in areas like robotics, autonoumous vehicles, and beyond. 
 
