@@ -18,10 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Audio Software Engineer at [Tesla](https://www.tesla.com/about) and a M.S. student in Computer Science at the [University of Southern California](https://www.cs.usc.edu/). 
+I am a Ph.D. student in Computer Science at NYU’s Music and Audio Research Lab (MARL), advised by Prof. Juan Pablo Bello, and an Audio Software Engineer at Tesla.
 
-My research centers on developing explainable AI algorithms for multi-modal machine perception, with a particular emphasis on auditory models for sound event localization and detection (SELD). I believe auditory perception is crucial for creating robust, multi-modal embodied agents. 
+My research centers on developing explainable AI algorithms for multimodal machine perception, with a particular emphasis on ML/AI models for Spatial Audio Representation Learning. More broadly, I work on multimodal machine listening, including audio-visual SELD, data-driven beamforming, acoustic imaging and sound event localization and detection (SELD). I am especially interested in how auditory perception enables robust, embodied multimodal agents that can operate and reason effectively in complex real-world environments.
 
-As a technologist, my core intention is to innnovative with ideas materialized into products that ultimately improve people's lives, especially those with disabilities. At [Oscillo Biosciences](https://oscillobiosciences.com/about/), I developed non-linear dynamical systems to simulate human synchronization. I delivered a mobile digital therapy capable of gently re-training rhytmic synchronization on patients who suffer from language disfluencies and aphasia. 
+As a technologist, my core motivation is to translate innovative ideas into impactful products that improve people’s lives, particularly for individuals with disabilities. At Oscillo Biosciences, I developed nonlinear dynamical systems to model and simulate human synchronization, contributing to a mobile digital therapy designed to gently retrain rhythmic synchronization in patients with language disfluencies and aphasia.
 
-As an engineer, at Tesla I develop sound user interfaces. By using sounds, I help humans navigate their vehicles. My contributions also expand other areas of the software stack, such as UI development, audio pipelines, and firmware. Beyond core audio software engineering, I build machine learning systems for speech enhacement and sound event localization and detection. 
+As an engineer at Tesla, I develop sound-based user interfaces that help drivers intuitively navigate and interact with their vehicles. My work spans the broader software stack, including audio pipelines, UI development, and firmware, and I also build machine learning systems for speech enhancement and sound event localization and detection, bridging applied research with production-level deployment.
+
+I hold dual Bachelor of Science degrees in Computer Science and Applied Mathematics from the University of California, Davis, and a Master of Science in Computer Science from the University of Southern California.
